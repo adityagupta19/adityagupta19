@@ -1,3 +1,5 @@
+[![An image of @adityagupta19's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/adityagupta19)](https://holopin.io/@adityagupta19)
+
 # 💫 About Me:
 
 🔭 I’m currently working on Backend Technologies and ML<br>👯 I’m looking to collaborate on ML<br>🌱 I’m currently learning Go
